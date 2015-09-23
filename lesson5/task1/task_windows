@@ -1,0 +1,2 @@
+#educational_plugin_window = input("What is your name?")
+#educational_plugin_window = age = input("How old are you?")

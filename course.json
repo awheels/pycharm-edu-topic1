@@ -1,0 +1,550 @@
+{
+  "lessons": [
+    {
+      "title": "Introduction",
+      "task_list": [
+        {
+          "name": "Data Types",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 9,
+                  "hint": "",
+                  "possible_answer": "\"Here is a string\"",
+                  "length": 15
+                },
+                {
+                  "line": 2,
+                  "start": 10,
+                  "hint": "",
+                  "possible_answer": "21",
+                  "length": 15
+                },
+                {
+                  "line": 4,
+                  "start": 8,
+                  "hint": "",
+                  "possible_answer": "3.14",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Print Function",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "print(\"Andrew\")",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Comments",
+          "task_files": {
+            "task.py": {
+              "placeholders": [],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Strings",
+      "task_list": [
+        {
+          "name": "Quotes",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "print(\u0027Mr. Wheeler has \"great\" hair.\u0027)",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Multiple Arguments",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\u0027I\u0027",
+                  "length": 7
+                },
+                {
+                  "line": 0,
+                  "start": 11,
+                  "hint": "",
+                  "possible_answer": "\u0027love\u0027",
+                  "length": 7
+                },
+                {
+                  "line": 0,
+                  "start": 19,
+                  "hint": "",
+                  "possible_answer": "\u0027puppies!\u0027",
+                  "length": 7
+                },
+                {
+                  "line": 2,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\u0027String\u0027",
+                  "length": 7
+                },
+                {
+                  "line": 2,
+                  "start": 16,
+                  "hint": "",
+                  "possible_answer": "12",
+                  "length": 7
+                },
+                {
+                  "line": 2,
+                  "start": 20,
+                  "hint": "",
+                  "possible_answer": "1.23",
+                  "length": 5
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Escaping Characters",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 2,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "5\u002710\\\"",
+                  "length": 11
+                },
+                {
+                  "line": 12,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\"Mr. Wheeler\\t5\u002710\\\"\\nGreg Smith\\t6\u00272\\\"\\nEmily Irk\\t5\u00275\\\"\\n\"",
+                  "length": 96
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Concatenation",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 3,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\"grass\" + \"hopper\"",
+                  "length": 15
+                },
+                {
+                  "line": 8,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\"hot \"",
+                  "length": 9
+                },
+                {
+                  "line": 14,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\"l\" + \"a\" + \"d\" + \"y\" + \"b\" + \"u\" + \"g\"",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Multiplying Strings",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 3,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "\"Bartholomew!\" * 10",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Using Numbers",
+      "task_list": [
+        {
+          "name": "Number Types",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 3,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "120",
+                  "length": 7
+                },
+                {
+                  "line": 5,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "13.4321",
+                  "length": 5
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Operations",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 11,
+                  "hint": "",
+                  "possible_answer": "2 + 4",
+                  "length": 13
+                },
+                {
+                  "line": 2,
+                  "start": 14,
+                  "hint": "",
+                  "possible_answer": "8 - 2",
+                  "length": 13
+                },
+                {
+                  "line": 4,
+                  "start": 17,
+                  "hint": "",
+                  "possible_answer": "3 * 2",
+                  "length": 13
+                },
+                {
+                  "line": 6,
+                  "start": 11,
+                  "hint": "",
+                  "possible_answer": "18 / 3",
+                  "length": 13
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Exponents",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 2,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "2**4",
+                  "length": 13
+                },
+                {
+                  "line": 4,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "4**2",
+                  "length": 13
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Variables",
+      "task_list": [
+        {
+          "name": "Creating Variables",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 2,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "\"Mango\"",
+                  "length": 6
+                },
+                {
+                  "line": 7,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "3",
+                  "length": 7
+                },
+                {
+                  "line": 12,
+                  "start": 7,
+                  "hint": "",
+                  "possible_answer": "2.40",
+                  "length": 5
+                },
+                {
+                  "line": 17,
+                  "start": 13,
+                  "hint": "",
+                  "possible_answer": "True",
+                  "length": 7
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Using Variables",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 5,
+                  "start": 44,
+                  "hint": "",
+                  "possible_answer": "fav_number",
+                  "length": 13
+                },
+                {
+                  "line": 10,
+                  "start": 13,
+                  "hint": "",
+                  "possible_answer": "13",
+                  "length": 21
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "User Input",
+      "task_list": [
+        {
+          "name": "Input Function",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 2,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "input(\"What is your name?\")",
+                  "length": 15
+                },
+                {
+                  "line": 7,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "age \u003d input(\"How old are you?\")",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "String Methods",
+      "task_list": [
+        {
+          "name": "String Methods",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 4,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "string.upper()",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "More String Methods",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 4,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "string1.swapcase()",
+                  "length": 15
+                },
+                {
+                  "line": 10,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "string2.replace(\u0027Dr. McConnell\u0027, \u0027Mr. McBride\u0027)",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Converting Types",
+      "task_list": [
+        {
+          "name": "Converting Strings to Integers",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 6,
+                  "start": 6,
+                  "hint": "",
+                  "possible_answer": "int(number1)",
+                  "length": 7
+                },
+                {
+                  "line": 6,
+                  "start": 21,
+                  "hint": "",
+                  "possible_answer": "int(number2)",
+                  "length": 7
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "More Converting",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 10,
+                  "hint": "",
+                  "possible_answer": "int(\u002712\u0027)",
+                  "length": 4
+                },
+                {
+                  "line": 2,
+                  "start": 8,
+                  "hint": "",
+                  "possible_answer": "float(\u00273.14\u0027)",
+                  "length": 6
+                },
+                {
+                  "line": 4,
+                  "start": 9,
+                  "hint": "",
+                  "possible_answer": "str(2015)",
+                  "length": 4
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "Augmented Operators",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 8,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "y +\u003d 2",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        },
+        {
+          "name": "More Augmented Operators",
+          "task_files": {
+            "task.py": {
+              "placeholders": [
+                {
+                  "line": 3,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "x *\u003d 10",
+                  "length": 15
+                },
+                {
+                  "line": 8,
+                  "start": 0,
+                  "hint": "",
+                  "possible_answer": "y -\u003d 3",
+                  "length": 15
+                }
+              ],
+              "name": "task.py"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "description": "An introduction to some key concepts.",
+  "name": "Coding 8 - Topic 1",
+  "authors": [],
+  "language": "Python"
+}

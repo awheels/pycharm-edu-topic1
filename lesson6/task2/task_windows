@@ -1,0 +1,2 @@
+#educational_plugin_window = string1.swapcase()
+#educational_plugin_window = string2.replace('Dr. McConnell', 'Mr. McBride')

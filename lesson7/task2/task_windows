@@ -1,0 +1,3 @@
+#educational_plugin_window = int('12')
+#educational_plugin_window = float("3.14")
+#educational_plugin_window = str(2015)

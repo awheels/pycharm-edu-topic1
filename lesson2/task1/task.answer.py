@@ -1,0 +1,1 @@
+print('Mr. Wheeler has "great" hair.')

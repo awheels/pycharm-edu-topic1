@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCProjectService">
+    <option name="course">
+      <Course>
+        <option name="description" value="An introduction to some key concepts." />
+        <option name="lessons">
+          <list>
+            <Lesson>
+              <option name="index" value="1" />
+              <option name="name" value="Introduction" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Data Types" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="possibleAnswer" value="&quot;Here is a string&quot;" />
+                                    <option name="start" value="9" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="21" />
+                                    <option name="start" value="10" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="3.14" />
+                                    <option name="start" value="8" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Print Function" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="possibleAnswer" value="print(&quot;Andrew&quot;)" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Comments" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="2" />
+              <option name="name" value="Strings" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Quotes" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="possibleAnswer" value="print('Mr. Wheeler has &quot;great&quot; hair.')" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Multiple Arguments" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="7" />
+                                    <option name="possibleAnswer" value="'I'" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="string1" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="7" />
+                                    <option name="possibleAnswer" value="'love'" />
+                                    <option name="start" value="11" />
+                                    <option name="taskText" value="string2" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="7" />
+                                    <option name="possibleAnswer" value="'puppies!'" />
+                                    <option name="start" value="19" />
+                                    <option name="taskText" value="string3" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="3" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="'String'" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="string4" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="4" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="12" />
+                                    <option name="start" value="16" />
+                                    <option name="taskText" value="integer" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="5" />
+                                    <option name="length" value="5" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="1.23" />
+                                    <option name="start" value="20" />
+                                    <option name="taskText" value="float" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Escaping Characters" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="11" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="5'10\&quot;" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="height here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="96" />
+                                    <option name="line" value="12" />
+                                    <option name="possibleAnswer" value="&quot;Mr. Wheeler\t5'10\&quot;\nGreg Smith\t6'2\&quot;\nEmily Irk\t5'5\&quot;\n&quot;" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="Mr. Wheeler *tab* 5'10&quot; *newline* Greg Smith *tab* 6'2&quot; *newline* Emily Irk *tab* 5'5&quot; *newline*" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="4" />
+                    <option name="name" value="Concatenation" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="3" />
+                                    <option name="possibleAnswer" value="&quot;grass&quot; + &quot;hopper&quot;" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="9" />
+                                    <option name="line" value="8" />
+                                    <option name="possibleAnswer" value="&quot;hot &quot;" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="14" />
+                                    <option name="possibleAnswer" value="&quot;l&quot; + &quot;a&quot; + &quot;d&quot; + &quot;y&quot; + &quot;b&quot; + &quot;u&quot; + &quot;g&quot;" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="5" />
+                    <option name="name" value="Multiplying Strings" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="3" />
+                                    <option name="possibleAnswer" value="&quot;Bartholomew!&quot; * 10" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="3" />
+              <option name="name" value="Using Numbers" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Number Types" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="3" />
+                                    <option name="possibleAnswer" value="120" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="integer" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="5" />
+                                    <option name="line" value="5" />
+                                    <option name="possibleAnswer" value="13.4321" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="float" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Operations" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="13" />
+                                    <option name="possibleAnswer" value="2 + 4" />
+                                    <option name="start" value="11" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="8 - 2" />
+                                    <option name="start" value="14" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="3 * 2" />
+                                    <option name="start" value="17" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="3" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="6" />
+                                    <option name="possibleAnswer" value="18 / 3" />
+                                    <option name="start" value="11" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Exponents" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="2**4" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="4**2" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="equation here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="4" />
+              <option name="name" value="Variables" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Creating Variables" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="6" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="&quot;Mango&quot;" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="string" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="7" />
+                                    <option name="possibleAnswer" value="3" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="integer" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="5" />
+                                    <option name="line" value="12" />
+                                    <option name="possibleAnswer" value="2.40" />
+                                    <option name="start" value="7" />
+                                    <option name="taskText" value="float" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="3" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="17" />
+                                    <option name="possibleAnswer" value="True" />
+                                    <option name="start" value="13" />
+                                    <option name="taskText" value="boolean" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Using Variables" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="5" />
+                                    <option name="possibleAnswer" value="fav_number" />
+                                    <option name="start" value="44" />
+                                    <option name="taskText" value="variable here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="21" />
+                                    <option name="line" value="10" />
+                                    <option name="possibleAnswer" value="13" />
+                                    <option name="start" value="13" />
+                                    <option name="taskText" value="your favourite number" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="5" />
+              <option name="name" value="User Input" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Input Function" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="input(&quot;What is your name?&quot;)" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="7" />
+                                    <option name="possibleAnswer" value="age = input(&quot;How old are you?&quot;)" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="6" />
+              <option name="name" value="String Methods" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="String Methods" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="string.upper()" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="More String Methods" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="string1.swapcase()" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="10" />
+                                    <option name="possibleAnswer" value="string2.replace('Dr. McConnell', 'Mr. McBride')" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="7" />
+              <option name="name" value="Converting Types" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Converting Strings to Integers" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="6" />
+                                    <option name="possibleAnswer" value="int(number1)" />
+                                    <option name="start" value="6" />
+                                    <option name="taskText" value="number1" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="7" />
+                                    <option name="line" value="6" />
+                                    <option name="possibleAnswer" value="int(number2)" />
+                                    <option name="start" value="21" />
+                                    <option name="taskText" value="number2" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="More Converting" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="4" />
+                                    <option name="possibleAnswer" value="int('12')" />
+                                    <option name="start" value="10" />
+                                    <option name="taskText" value="'12'" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="6" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="float('3.14')" />
+                                    <option name="start" value="8" />
+                                    <option name="taskText" value="'3.14'" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="4" />
+                                    <option name="line" value="4" />
+                                    <option name="possibleAnswer" value="str(2015)" />
+                                    <option name="start" value="9" />
+                                    <option name="taskText" value="2015" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Augmented Operators" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="8" />
+                                    <option name="possibleAnswer" value="y += 2" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="4" />
+                    <option name="name" value="More Augmented Operators" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="3" />
+                                    <option name="possibleAnswer" value="x *= 10" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="15" />
+                                    <option name="line" value="8" />
+                                    <option name="possibleAnswer" value="y -= 3" />
+                                    <option name="taskText" value="write code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+          </list>
+        </option>
+        <option name="name" value="Coding 8 - Topic 1" />
+      </Course>
+    </option>
+  </component>
+</project>
